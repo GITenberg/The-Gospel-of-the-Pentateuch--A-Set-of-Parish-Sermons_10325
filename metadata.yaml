@@ -1,0 +1,36 @@
+_repo: The-Gospel-of-the-Pentateuch--A-Set-of-Parish-Sermons_10325
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10325'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Pentateuch -- Sermons'
+- !lcsh 'Church of England -- Sermons'
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BX'
+- !lcsh 'Bible. Pentateuch -- Criticism, interpretation, etc.'
+- GITenberg
+tableOfContents: God in Christ -- The likeness of God -- The voice of the Lord God
+  -- Noah's flood -- Abraham -- Jacob and Esau -- Joseph -- The Bible the great civilizer
+  -- Moses -- The plagues of Egypt -- The god of the Old Testament is the god of the
+  New -- The birthright of freedom -- Korah, Dathan, and Abiram -- Balaam -- Deuteronomy
+  -- National wealth -- The god of the rain -- The death of Moses.
+title: 'The Gospel of the Pentateuch: A Set of Parish Sermons'
+url: http://www.gutenberg.org/ebooks/10325
